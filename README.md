@@ -39,8 +39,6 @@ O desenvolvimento dessa aplicação foi em HTML5 e CSS3 para fazer a marcação 
 
 ## 🛠️ O projeto foi construido com
 
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Estutura do projeto.
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styles do projeto.
 * [Angular](https://angular.io/docs) - criar a interface do projeto.
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript para criar a lógica e animações do projeto.
 
